@@ -1,1 +1,1 @@
-# docker-images
+# ubuntu:latest with curl and sudo
